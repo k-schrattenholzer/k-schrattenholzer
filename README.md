@@ -1,3 +1,4 @@
+<!-- ![katelyn schrattenholzer](/assets/images/tux.png) -->
 ## Current Stack
 <br/> 
 Languages: <br/> JavaScript, HTML, CSS
