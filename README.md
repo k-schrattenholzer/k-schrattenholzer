@@ -1,4 +1,4 @@
-![banner](https://github.com/k-schrattenholzer/k-schrattenholzer/blob/main/banner2.png)
+![banner](https://github.com/k-schrattenholzer/k-schrattenholzer/blob/main/banner3.png)
 ## About
 Pronouns: <br/> they/them...
 <br/> 
