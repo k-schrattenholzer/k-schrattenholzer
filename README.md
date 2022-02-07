@@ -1,14 +1,23 @@
-<!-- ![katelyn schrattenholzer](/assets/images/tux.png) -->
-## Current Stack
-<br/> 
-Languages: <br/> JavaScript, HTML, CSS
-Libs/Frameworks: <br/>  React, Node.js, Express
-Databases: <br/>  PostgreSQL, Supabase, Firebase
-Tools: <br/>  Slack, Git, VScode, Heroku, Netlify, Postman
-Testing: <br/>  Jest, React Testing Library
+![katelyn schrattenholzer](https://github.com/user/banner.png)
+
+## About
 Pronouns: <br/> they/them...
+<br/> 
 How to reach me: 
-<br/>[LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) <br />
+<br/> [LinkedIn](https://www.linkedin.com/in/k-schrattenholzer/) <br />
+
+## Current Stack
+Languages: <br/> JavaScript, HTML, CSS
+<br/> 
+Libs/Frameworks: <br/>  React, Node.js, Express
+<br/> 
+Databases: <br/>  PostgreSQL, Supabase
+<br/> 
+Tools: <br/>  Slack, Git, VScode, Heroku, Netlify, Postman
+<br/> 
+Testing: <br/>  Jest, React Testing Library, SuperTest
+<br/> 
+
 
 ## Stats
 <br/> 
