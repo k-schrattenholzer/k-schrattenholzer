@@ -1,4 +1,3 @@
-![katelyn schrattenholzer](https://github.com/user/banner.png)
 
 ## About
 Pronouns: <br/> they/them...
