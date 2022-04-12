@@ -1,9 +1,6 @@
 <!-- ![banner](https://github.com/k-schrattenholzer/k-schrattenholzer/blob/main/banner3.png) -->
-
-<h2>𝙥𝙧𝙤𝙣𝙤𝙪𝙣𝙨</h2>
 <p>𝘁𝗵𝗲𝘆 / 𝘁𝗵𝗲𝗺</p>
 
-<h2>𝙛𝙤𝙧 𝙛𝙪𝙣</h2>
 :herb: 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘢 𝘙𝘌𝘚𝘛𝘧𝘶𝘭 𝘚𝘵𝘢𝘳𝘥𝘦𝘸 𝘝𝘢𝘭𝘭𝘦𝘺 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘈𝘗𝘐 ( 𝘶𝘴𝘪𝘯𝘨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝘢𝘯𝘥 𝑵𝒐𝒅𝒆.𝒋𝒔 )
 
 <h2>𝙘𝙪𝙧𝙧𝙚𝙣𝙩 𝙨𝙩𝙖𝙘𝙠</h2>
@@ -37,12 +34,7 @@
 ![SuperTest](https://img.shields.io/badge/-SuperTest-%2300C7B7?style=flat-square&logo=SuperTest)
 ![React Testing Libary](https://img.shields.io/badge/-React_Testing_Libary-%2300C7B7?style=flat-square&logo=react-testing-library)
 
-
-<h2>𝙨𝙩𝙖𝙩𝙨</h2>
 <p > <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-schrattenholzer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&&theme=calm&show_icons=true)" />
-
-
-<h2>𝙧𝙚𝙖𝙘𝙝 𝙢𝙚</h2>
 
 [![](https://img.shields.io/badge/-%231DA1F2?-square&logo=twitter&logoColor=ffffff)](https://twitter.com/katie_schratt)
 [
