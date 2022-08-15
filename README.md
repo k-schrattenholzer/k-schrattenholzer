@@ -24,8 +24,6 @@
 ![SuperTest](https://img.shields.io/badge/-SuperTest-%2300C7B7?style=flat-square&logo=SuperTest)
 ![React Testing Libary](https://img.shields.io/badge/-React_Testing_Libary-%2300C7B7?style=flat-square&logo=react-testing-library)
 
-<p > <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k-schrattenholzer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&&theme=calm&show_icons=true)" />
-
 [![](https://img.shields.io/badge/-%231DA1F2?-square&logo=twitter&logoColor=ffffff)](https://twitter.com/katie_schratt)
 [
 ![](https://img.shields.io/badge/-%23181717?-square&logo=linkedin&color=0e76a8)](https://linkedin.com/in/k-schrattenholzer)
